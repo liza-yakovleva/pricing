@@ -22,7 +22,7 @@ html {
   align-items: center;
   height: 100vh;
   min-width: 600px;
-  background: url("../img/main-bg.jpg") no-repeat center;
+  background: url("../pricing/img/main-bg.jpg") no-repeat center;
   background-size: cover;
   position: relative;
 }
@@ -301,7 +301,7 @@ html {
 
 
 .call-to-action {
-  background-image: url("../img/bg3.png");
+  background-image: url("../pricing/img/bg3.png");
   text-align: center;
   background-size: cover;
   padding: 15rem;
